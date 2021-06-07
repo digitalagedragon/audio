@@ -1,0 +1,43 @@
+             Old                New
+Ref  | Value  | Voltage | Value  | Voltage | Audio Path? | Digi-Key P/N   | Manufacturer / Series | Notes
+-----+--------+---------+--------+---------+-------------+----------------+-----------------------+-------
+C003 | 4700u  | 80V     | like   | like    | No          | 493-6172-ND    | Nichicon LLS          |
+C004 | 0.02u  | 600V    | 0.022u | 630V    | No          | 495-4957-1-ND  | Epcos TDK B3292       | Replaces oil/paper capacitors
+C005 |        |         |        |         |             |                |                       |
+C006 | 3000u  | 55V     | 4700u  | 63V     | Yes         | 493-17538-ND   | Nichicon LKG          | Main output caps, "Gold Tune" series
+C007 |        |         |        |         |             |                |                       |
+C008 | 0.033u | 800VAC  | 0.033u | 660VAC  | No          | 399-7466-ND    | Kemet PME204          | Class X2 - across-the-line. Lower voltage OK because mine's on 120V
+C901 | 1u     | 25V     | 1u     | 50V     | Yes         | 493-15032-ND   | Nichicon UES          |
+C902 |        |         |        |         |             |                |                       |
+C403 |        |         |        |         |             |                |                       |
+C404 |        |         |        |         |             |                |                       |
+C414 |        |         |        |         |             |                |                       |
+C415 |        |         |        |         |             |                |                       |
+C711 |        |         |        |         |             |                |                       |
+C712 |        |         |        |         |             |                |                       |
+C905 | 22u    | 6V      | 22u    | 16V     | No          | 493-10450-1-ND | Nichicon UMA          |
+C906 |        |         |        |         |             |                |                       |
+C909 | 47u    | 16V     | 47u    | 35V     | No          | 399-6610-ND    | Kemet ESK             |
+C910 |        |         |        |         |             |                |                       |
+C405 | 10u    | 35V     | 10u    | 63V     | No          | 493-15148-ND   | Nichicon UFW          |
+C406 |        |         |        |         |             |                |                       |
+C407 | 3.3u   | 25V     | 3.3u   | 50V     | Yes         | 493-10842-1-ND | Nichicon UES          |
+C408 |        |         |        |         |             |                |                       |
+C410 |        |         |        |         |             |                |                       |
+C411 |        |         |        |         |             |                |                       |
+C416 | 0.47u  | 25V     | 0.47u  | 50V     | Yes         | 493-10845-1-ND | Nichicon UES          |
+C417 |        |         |        |         |             |                |                       |
+C701 |        |         |        |         |             |                |                       |
+C702 |        |         |        |         |             |                |                       |
+C703 | 47u    | 50V     | 47u    | 100V    | No          | 399-15665-ND   | Kemet ESH             |
+C704 |        |         |        |         |             |                |                       |
+C707 | 47u    | 50V     | like   | like    | Yes         | 493-10666-1-ND | Nichicon UKT          |
+C708 |        |         |        |         |             |                |                       |
+C709 |        |         |        |         |             |                |                       |
+C710 |        |         |        |         |             |                |                       |
+C717 | 22u    | 35V     | 22u    | 63V     | No          | 493-13471-1-ND | Nichicon UVZ          |
+C718 |        |         |        |         |             |                |                       |
+C803 | 470u   | 63V     | like   | like    | No          | 493-1950-ND    | Nichicon UPW          |
+C804 | 100u   | 50V     | 100u   | 100V    | No          | 493-1148-ND    | Nichicon UVR          |
+C806 |        |         |        |         |             |                |                       |
+C805 | 330u   | 50V     | 330u   | 63V     | No          | P13144-ND      | Panasonic EB-A        |
